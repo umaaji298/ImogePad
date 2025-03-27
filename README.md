@@ -25,13 +25,13 @@ https://github.com/Narazaka/tmp-fallback-fonts-jp
 
 ## Install
 右側のReleaseからダウンロードしてください。  
-imogePad_0.4.zip
+imogePad_0.5.zip
 
 zipを解答し、unitypackageをプロジェクトにインポートしてください。  
-2.System -> ImogePad -> ImogePad のprefabをHierarchyに配置して使います。  
+ImogePadSample -> ImogePad のprefabをHierarchyに配置して使います。  
 
 また  
-0.Scenes > VRCDefaultWorldSceneを開くとpurfab配置済みのサンプルシーンがあります。
+ImogePadSample> VRCDefaultWorldSceneを開くとpurfab配置済みのサンプルシーンがあります。
 
 # License
 「」　と　としあき　のみMIT Licenseの範囲内でお使いできます。  
